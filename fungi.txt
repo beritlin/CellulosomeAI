@@ -1,0 +1,349 @@
+x,Proteome_ID,Tax_ID,OSCODE,SUPERREGNUM,#(1),#(2),#(3),Species Name
+3,UP000266453,1678846,None,eukaryota,4966,0,4966,Alternaria sp. MG1
+23,UP001147752,293559,None,eukaryota,11704,0,11712,Penicillium concentricum
+33,UP000011064,658429,PSED2,eukaryota,9073,49,9124,Pseudogymnoascus destructans (strain ATCC MYA-4855 / 20631-21) (Bat white-nose syndrome fungus) (Geomyces destructans)
+36,UP000016936,701091,COCH5,eukaryota,12852,5,13316,Cochliobolus heterostrophus (strain C5 / ATCC 48332 / race O) (Southern corn leaf blight fungus) (Bipolaris maydis)
+37,UP000188320,1213189,ZANCU,eukaryota,7387,0,8058,Zancudomyces culisetae (Gut fungus) (Smittium culisetae)
+43,UP000266234,694270,None,eukaryota,11420,0,11422,Fusarium longipes
+61,UP000037505,1509407,ASPN3,eukaryota,11916,0,11916,Aspergillus nomiae NRRL (strain ATCC 15546 / NRRL 13137 / CBS 260.88 / M93)
+78,UP000092177,759273,COLHI,eukaryota,14636,0,14672,Colletotrichum higginsianum (strain IMI 349063) (Crucifer anthracnose fungus)
+122,UP000077684,13291,None,eukaryota,9880,0,9886,Tilletia controversa (dwarf bunt fungus)
+129,UP000011761,717646,BAUPA,eukaryota,10508,0,10508,Baudoinia panamericana (strain UAMH 10762) (Angels' share fungus) (Baudoinia compniacensis (strain UAMH 10762))
+133,UP000266152,5514,FUSSP,eukaryota,11960,0,11961,Fusarium sporotrichioides
+135,UP000001072,747676,MELLP,eukaryota,16237,0,16372,Melampsora larici-populina (strain 98AG31 / pathotype 3-4-7) (Poplar leaf rust fungus)
+142,UP000433883,5025,VENIN,eukaryota,10094,0,16669,Venturia inaequalis (Apple scab fungus)
+154,UP000016923,1262450,OPHP1,eukaryota,8878,0,8884,Ophiostoma piceae (strain UAMH 11346) (Sap stain fungus)
+156,UP000011668,983506,THACA,eukaryota,10482,0,10489,Thanatephorus cucumeris (strain AG1-IA) (Rice sheath blight fungus) (Rhizoctonia solani)
+158,UP000030669,670483,GLOTA,eukaryota,11735,0,11755,Gloeophyllum trabeum (strain ATCC 11539 / FP-39264 / Madison 617) (Brown rot fungus)
+176,UP000536275,5476,CANAX,eukaryota,6758,600,7616,Candida albicans (Yeast)
+204,UP000736672,169388,FUSSL,eukaryota,17641,0,17655,Fusarium solani (Filamentous fungus)
+206,UP000215289,1245748,None,eukaryota,9174,0,9174,Aspergillus turcosus
+219,UP000272442,1960876,None,eukaryota,8895,0,8895,Aspergillus sp. HF37
+221,UP000654913,1220207,None,eukaryota,13616,0,13628,Aspergillus puulaauensis
+223,UP000054524,1913371,NEMA1,eukaryota,2428,0,2896,Nematocida ausubeli (strain ATCC PRA-371 / ERTm2) (Nematode killer fungus)
+242,UP000053841,930089,COCC2,eukaryota,12851,0,12853,Cochliobolus carbonum (strain 26-R-13) (Maize leaf spot fungus) (Bipolaris zeicola)
+277,UP000286921,105351,ASPAW,eukaryota,11139,0,11224,Aspergillus awamori (Black koji mold)
+278,UP000184063,1137211,ASPLC,eukaryota,13490,1,13503,Aspergillus luchuensis (strain CBS 106.47)
+279,UP000016933,675120,DOTSN,eukaryota,12399,15,12415,Dothistroma septosporum (strain NZE10 / CBS 128990) (Red band needle blight fungus) (Mycosphaerella pini)
+281,UP001149165,116970,None,eukaryota,13712,0,13748,Penicillium angulare
+285,UP000308092,1220188,None,eukaryota,13554,0,17895,Aspergillus tanneri
+286,UP000247233,1448321,None,eukaryota,10837,0,11130,Aspergillus heteromorphus CBS 117.55
+297,UP000277212,2010991,None,eukaryota,16484,0,16485,Fusarium kuroshium
+312,UP000738359,64518,MORAP,eukaryota,10605,0,10687,Mortierella alpina (Oleaginous fungus) (Mortierella renispora)
+314,UP000002872,935791,NEMP3,eukaryota,2724,0,2726,Nematocida parisii (strain ERTm3) (Nematode killer fungus)
+322,UP000019804,1388766,ASPRC,eukaryota,10054,0,10067,Aspergillus ruber (strain CBS 135680)
+340,UP000532311,78864,None,eukaryota,14587,0,14590,Fusarium globosum
+343,UP000001056,306901,CHAGB,eukaryota,11038,0,11050,Chaetomium globosum (strain ATCC 6205 / CBS 148.51 / DSM 1962 / NBRC 6347 / NRRL 1970) (Soil fungus)
+347,UP000653565,340414,None,eukaryota,10467,0,10468,Aspergillus fumigatiaffinis
+361,UP000630445,1194566,None,eukaryota,9685,0,16780,Aspergillus hiratsukae
+393,UP001150879,2972120,None,eukaryota,11288,0,11333,Penicillium cf. griseofulvum
+397,UP000006702,331117,NEOFI,eukaryota,10409,0,10411,Neosartorya fischeri (strain ATCC 1020 / DSM 3700 / CBS 544.65 / FGSC A1164 / JCM 1740 / NRRL 181 / WB 181) (Aspergillus fischerianus)
+417,UP000000707,590646,CANTC,eukaryota,5540,511,6058,Candida tenuis (strain ATCC 10573 / BCRC 21748 / CBS 615 / JCM 9827 / NBRC 10315 / NRRL Y-1498 / VKM Y-70) (Yeast) (Yamadazyma tenuis)
+422,UP000509510,121627,TALRU,eukaryota,11830,0,11907,Talaromyces rugulosus (Penicillium rugulosum)
+432,UP000007703,306902,CLAL4,eukaryota,5932,0,5936,Clavispora lusitaniae (strain ATCC 42720) (Yeast) (Candida lusitaniae)
+435,UP001150941,63820,None,eukaryota,10811,0,10821,Penicillium chermesinum
+446,UP000694050,485398,None,eukaryota,16725,182,17423,Fusarium oxysporum f. sp. rapae
+447,UP000008177,999810,BOTF4,eukaryota,16338,0,16353,Botryotinia fuckeliana (strain T4) (Noble rot fungus) (Botrytis cinerea)
+456,UP000000561,5270,MYCMD,eukaryota,6788,18,6809,Mycosarcoma maydis (Corn smut fungus) (Ustilago maydis)
+468,UP000014480,1213857,COLOR,eukaryota,13227,0,13256,Colletotrichum orbiculare (strain 104-T / ATCC 96160 / CBS 514.97 / LARS 414 / MAFF 240422) (Cucumber anthracnose fungus) (Colletotrichum lagenarium)
+472,UP000009058,242507,PYRO7,eukaryota,12681,115,12939,Pyricularia oryzae (strain 70-15 / ATCC MYA-4617 / FGSC 8958) (Rice blast fungus) (Magnaporthe oryzae)
+473,UP001147747,1131564,None,eukaryota,14250,0,14289,Penicillium cosmopolitanum
+481,UP000008370,650164,PHACS,eukaryota,13867,0,13925,Phanerochaete carnosa (strain HHB-10118-sp) (White-rot fungus) (Peniophora carnosa)
+485,UP000701341,36656,PENCR,eukaryota,10566,0,10577,Penicillium crustosum (Blue mold fungus)
+489,UP000247810,1448320,None,eukaryota,12861,0,12882,Aspergillus ellipticus CBS 707.79
+494,UP000191691,60175,PENNA,eukaryota,11728,0,15569,Penicillium nalgiovense
+500,UP000325579,1506151,None,eukaryota,13384,0,13384,Aspergillus pseudonomiae
+511,UP001281614,34407,COLKA,eukaryota,19151,0,19181,Colletotrichum kahawae (Coffee berry disease fungus)
+526,UP000053257,745531,PHLG1,eukaryota,11848,0,11855,Phlebiopsis gigantea (strain 11061_1 CR5-6) (White-rot fungus) (Peniophora gigantea)
+537,UP000007978,1028729,FUSPC,eukaryota,12448,0,12449,Fusarium pseudograminearum (strain CS3096) (Wheat and barley crown-rot fungus)
+543,UP000325672,132259,ASPPS,eukaryota,13426,0,13428,Aspergillus pseudotamarii
+548,UP000234585,41067,ASPCN,eukaryota,9639,0,9639,Aspergillus candidus
+556,UP000536711,78861,None,eukaryota,14072,0,14081,Fusarium acutatum
+558,UP000710440,75553,ASPVI,eukaryota,10039,0,10039,Aspergillus viridinutans
+569,UP001227192,293382,PENTH,eukaryota,12898,0,12901,Penicillium thymicola
+581,UP000837801,45579,None,eukaryota,5922,0,5927,[Candida] railenensis
+586,UP000234275,1392250,None,eukaryota,12963,2,13197,Aspergillus steynii IBT 23096
+587,UP000006039,644352,GAET3,eukaryota,14456,141,14599,Gaeumannomyces tritici (strain R3-111a-1) (Wheat and barley take-all root rot fungus) (Gaeumannomyces graminis var. tritici)
+595,UP000191285,303698,None,eukaryota,10355,0,10356,Penicillium steckii
+605,UP000326198,1226010,None,eukaryota,12944,0,12947,Aspergillus bertholletiae
+612,UP000008536,559307,ZYGRC,eukaryota,4987,0,4991,Zygosaccharomyces rouxii (strain ATCC 2623 / CBS 732 / NBRC 1130 / NCYC 568 / NRRL Y-229)
+625,UP000243015,5551,TRIRU,eukaryota,7033,0,7051,Trichophyton rubrum (Athlete's foot fungus) (Epidermophyton rubrum)
+633,UP000005221,578454,CANPC,eukaryota,5777,0,5810,Candida parapsilosis (strain CDC 317 / ATCC MYA-4646) (Yeast) (Monilia parapsilosis)
+667,UP000582016,47803,None,eukaryota,14159,0,14160,Fusarium phyllophilum
+683,UP000002624,544712,AJECH,eukaryota,9545,0,9547,Ajellomyces capsulatus (strain H143) (Darling's disease fungus) (Histoplasma capsulatum)
+684,UP000241769,1890364,None,eukaryota,16856,0,17124,Planoprotostelium fungivorum
+685,UP000002753,226230,SACK1,eukaryota,3745,0,6747,Saccharomyces kudriavzevii (strain ATCC MYA-4449 / AS 2.2408 / CBS 8840 / NBRC 1802 / NCYC 2889) (Yeast)
+692,UP000053630,694068,FOMME,eukaryota,531,0,533,Fomitiporia mediterranea (strain MF3/22) (Grapevine white-rot fungus)
+697,UP000750502,221167,None,eukaryota,14591,86,14679,Fusarium xylarioides
+708,UP000016932,383855,PSEFD,eukaryota,13043,19,13066,Pseudocercospora fijiensis (strain CIRAD86) (Black leaf streak disease fungus) (Mycosphaerella fijiensis)
+723,UP000191672,416450,None,eukaryota,11372,0,11511,Penicillium antarcticum
+741,UP000266188,2070753,None,eukaryota,11306,0,11307,Aspergillus sclerotialis
+744,UP000016929,2502994,FUSC4,eukaryota,14157,0,14459,Fusarium oxysporum f. sp. cubense (strain race 4) (Panama disease fungus)
+748,UP000009882,1170229,PEND2,eukaryota,9101,0,9133,Penicillium digitatum (strain PHI26 / CECT 20796) (Green mold)
+753,UP000326268,61420,None,eukaryota,13914,0,13914,Aspergillus caelatus
+756,UP000007129,1126212,MACPH,eukaryota,13804,0,13806,Macrophomina phaseolina (strain MS6) (Charcoal rot fungus)
+759,UP000006564,510516,ASPOR,eukaryota,12056,2,12081,Aspergillus oryzae (strain ATCC 42149 / RIB 40) (Yellow koji mold)
+771,UP000030104,40296,PENIT,eukaryota,9993,0,9996,Penicillium italicum (Blue mold)
+774,UP000008782,645133,COLGM,eukaryota,12019,0,12020,Colletotrichum graminicola (strain M1.001 / M2 / FGSC 10212) (Maize anthracnose fungus) (Glomerella graminicola)
+786,UP000177622,1835702,None,eukaryota,12121,0,12249,Penicillium arizonense
+799,UP000002311,559292,YEAST,eukaryota,6065,32,6102,Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast)
+806,UP000007241,684364,BATDJ,eukaryota,8610,0,8700,Batrachochytrium dendrobatidis (strain JAM81 / FGSC 10211) (Frog chytrid fungus)
+827,UP000076580,98403,DRECN,eukaryota,8231,0,8236,Drechmeria coniospora (Nematophagous fungus) (Meria coniospora)
+828,UP000184267,154538,TRAPU,eukaryota,14147,0,14438,Trametes pubescens (White-rot fungus)
+836,UP000245910,56646,None,eukaryota,13940,5,13945,Fusarium venenatum
+845,UP000191522,69771,PENDC,eukaryota,7144,0,7146,Penicillium decumbens
+857,UP000053237,65357,None,eukaryota,13200,0,13310,Albugo candida
+859,UP000059188,1108050,THACB,eukaryota,12613,0,13883,Thanatephorus cucumeris (strain AG1-IB / isolate 7/3/14) (Lettuce bottom rot fungus) (Rhizoctonia solani)
+871,UP000054196,741275,PUNST,eukaryota,2093,0,2097,Punctularia strigosozonata (strain HHB-11173) (White-rot fungus)
+875,UP000017200,683840,USTV1,eukaryota,7354,302,7666,Microbotryum lychnidis-dioicae (strain p1A1 Lamole / MvSl-1064) (Anther smut fungus)
+888,UP000008784,756982,ARTOA,eukaryota,11478,0,11479,Arthrobotrys oligospora (strain ATCC 24927 / CBS 115.81 / DSM 1491) (Nematode-trapping fungus) (Didymozoophaga oligospora)
+899,UP000007148,1109443,SERID,eukaryota,11780,0,11790,Serendipita indica (strain DSM 11827) (Root endophyte fungus) (Piriformospora indica)
+900,UP000287144,2604345,None,eukaryota,17739,0,17740,Fusarium oligoseptatum
+904,UP000054383,28573,TALIS,eukaryota,9928,0,9928,Talaromyces islandicus (Penicillium islandicum)
+906,UP000184073,1036611,None,eukaryota,13222,0,13222,Aspergillus versicolor CBS 583.65
+907,UP000008783,418459,PUCGT,eukaryota,15688,120,15920,Puccinia graminis f. sp. tritici (strain CRL 75-36-700-3 / race SCCL) (Black stem rust fungus)
+916,UP000325780,36643,None,eukaryota,11290,0,11292,Aspergillus avenaceus
+927,UP000184383,1073089,None,eukaryota,12389,0,12435,Aspergillus wentii DTO 134E9
+930,UP001182556,5418,PAPLA,eukaryota,7476,0,7537,Papiliotrema laurentii (Cryptococcus laurentii)
+932,UP000001300,284591,YARLI,eukaryota,6449,5,6477,Yarrowia lipolytica (strain CLIB 122 / E 150) (Yeast) (Candida lipolytica)
+933,UP001141434,1506179,None,eukaryota,10128,0,10219,Penicillium alfredii
+936,UP000188318,602072,ASPC5,eukaryota,11034,3,11478,Aspergillus carbonarius (strain ITEM 5010)
+942,UP001220324,3151616,None,eukaryota,13224,0,13224,Penicillium frequentans
+961,UP000001294,441960,TALMQ,eukaryota,10028,420,10470,Talaromyces marneffei (strain ATCC 18224 / CBS 334.59 / QM 7333) (Penicillium marneffei)
+970,UP000253729,1341132,None,eukaryota,13680,0,13684,Aspergillus welwitschiae
+981,UP000670092,5037,AJECA,eukaryota,9413,0,9543,Ajellomyces capsulatus (Darling's disease fungus) (Histoplasma capsulatum)
+992,UP000011976,1151754,PSEA3,eukaryota,6543,97,6640,Pseudozyma antarctica (strain T-34) (Yeast) (Candida antarctica)
+995,UP000327118,138285,None,eukaryota,9078,0,9078,Aspergillus coremiiformis
+1006,UP000186955,1316194,None,eukaryota,14038,0,14177,Penicillium subrubescens
+1007,UP001152885,1227364,None,eukaryota,5312,0,5313,Candida verbasci
+1017,UP001221413,74499,ARTDA,eukaryota,9277,0,9306,Arthrobotrys dactyloides (Nematode-trapping fungus)
+1023,UP000017559,1381753,MONRO,eukaryota,17972,4,17979,Moniliophthora roreri (strain MCA 2997) (Cocoa frosty pod rot fungus) (Crinipellis roreri)
+1024,UP000326289,656917,None,eukaryota,13415,0,13415,Aspergillus minisclerotigenes
+1026,UP000179179,109264,None,eukaryota,12265,0,12265,Aspergillus bombycis
+1028,UP000246702,1450535,None,eukaryota,12304,0,12338,Aspergillus sclerotioniger CBS 115572
+1046,UP000094569,573508,ASPCR,eukaryota,10115,0,10344,Aspergillus cristatus (Chinese Fuzhuan brick tea-fermentation fungus) (Eurotium cristatum)
+1050,UP000184356,1036612,None,eukaryota,13568,0,13579,Aspergillus sydowii CBS 593.65
+1052,UP001149954,1882269,None,eukaryota,10960,0,10989,Penicillium fimorum
+1068,UP000000560,227321,EMENI,eukaryota,10561,1,10574,Emericella nidulans (strain FGSC A4 / ATCC 38163 / CBS 112.46 / NRRL 194 / M139) (Aspergillus nidulans)
+1070,UP000827133,1042133,None,eukaryota,13672,0,13673,Fusarium musae
+1076,UP000000724,500485,PENRW,eukaryota,12788,0,25411,Penicillium rubens (strain ATCC 28089 / DSM 1075 / NRRL 1951 / Wisconsin 54-1255) (Penicillium chrysogenum)
+1078,UP000070720,229533,GIBZE,eukaryota,14146,1,14577,Gibberella zeae (strain ATCC MYA-4620 / CBS 123657 / FGSC 9075 / NRRL 31084 / PH-1) (Wheat head blight fungus) (Fusarium graminearum)
+1083,UP000782241,40199,None,eukaryota,11232,0,11233,Fusarium avenaceum
+1086,UP000001631,447093,AJECG,eukaryota,9214,0,9254,Ajellomyces capsulatus (strain G186AR / H82 / ATCC MYA-2454 / RMSCC 2432) (Darling's disease fungus) (Histoplasma capsulatum)
+1100,UP000094043,1295531,None,eukaryota,6334,0,6342,Cryptococcus depauperatus CBS 7841
+1112,UP000030143,27334,PENEN,eukaryota,11060,0,11060,Penicillium expansum (Blue mold rot fungus)
+1119,UP000034291,308745,None,eukaryota,7761,0,7761,Aspergillus rambellii
+1134,UP000091967,36050,FUSPO,eukaryota,14048,0,14741,Fusarium poae
+1140,UP000016931,692275,SPHMS,eukaryota,10154,0,10156,Sphaerulina musiva (strain SO2202) (Poplar stem canker fungus) (Septoria musiva)
+1146,UP000002485,284812,SCHPO,eukaryota,5214,31,5249,Schizosaccharomyces pombe (strain 972 / ATCC 24843) (Fission yeast)
+1154,UP000033540,1403190,ASPPU,eukaryota,8651,0,8651,Aspergillus parasiticus (strain ATCC 56775 / NRRL 5862 / SRRC 143 / SU-1)
+1157,UP000012174,1287681,EUTLA,eukaryota,11684,0,11685,Eutypa lata (strain UCR-EL1) (Grapevine dieback disease fungus) (Eutypa armeniacae)
+1168,UP000001471,426418,PYRTR,eukaryota,12062,0,12169,Pyrenophora tritici-repentis (strain Pt-1C-BFP) (Wheat tan spot fungus) (Drechslera tritici-repentis)
+1185,UP000234474,1392255,ASPN1,eukaryota,11478,2,11534,Aspergillus novofumigatus (strain IBT 16806)
+1187,UP000053475,40382,ASPUT,eukaryota,706,0,706,Aspergillus ustus
+1188,UP000663193,321614,PHANO,eukaryota,17429,301,17748,Phaeosphaeria nodorum (strain SN15 / ATCC MYA-4574 / FGSC 10173) (Glume blotch fungus) (Parastagonospora nodorum)
+1195,UP000001861,240176,COPC7,eukaryota,13334,1,13356,Coprinopsis cinerea (strain Okayama-7 / 130 / ATCC MYA-4618 / FGSC 9003) (Inky cap fungus) (Hormographiella aspergillata)
+1210,UP000749309,101480,None,eukaryota,4922,0,4922,Trichophyton interdigitale
+1225,UP000631181,2839758,None,eukaryota,8173,0,8173,Penicillium ucsense
+1228,UP001149074,1131581,None,eukaryota,12075,0,12156,Penicillium argentinense
+1231,UP001152130,2494466,None,eukaryota,12531,0,12532,Fusarium irregulare
+1242,UP001213799,40994,None,eukaryota,12329,0,12341,Penicillium hordei
+1245,UP000813427,61284,None,eukaryota,14098,0,14106,Fusarium tricinctum
+1252,UP000326532,5067,ASPPA,eukaryota,13752,0,13752,Aspergillus parasiticus
+1253,UP000554235,1237068,None,eukaryota,17167,0,17169,Fusarium albosuccineum
+1255,UP000198287,158441,FOLCA,eukaryota,28565,0,28732,Folsomia candida (Springtail)
+1267,UP000005206,660122,FUSV7,eukaryota,15709,0,15738,Fusarium vanettenii (strain ATCC MYA-4622 / CBS 123669 / FGSC 9596 / NRRL 45880 / 77-13-4) (Fusarium solani subsp. pisi)
+1283,UP000015464,653667,SCHCR,eukaryota,5135,15,5170,Schizosaccharomyces cryophilus (strain OY26 / ATCC MYA-4695 / CBS 11777 / NBRC 106824 / NRRL Y48691) (Fission yeast)
+1289,UP000248961,1450537,ASPHC,eukaryota,11360,0,11361,Aspergillus homomorphus (strain CBS 101889)
+1291,UP001150942,2972119,None,eukaryota,12499,0,12613,Penicillium cf. viridicatum
+1292,UP000623687,5322,PLEOS,eukaryota,11624,0,11693,Pleurotus ostreatus (Oyster mushroom) (White-rot fungus)
+1294,UP001147760,1303715,None,eukaryota,12892,0,13044,Penicillium desertorum
+1307,UP000008864,559305,TRIRC,eukaryota,8617,1388,10005,Trichophyton rubrum (strain ATCC MYA-4607 / CBS 118892) (Athlete's foot fungus)
+1313,UP000593570,100902,None,eukaryota,16776,0,17912,Fusarium oxysporum f. sp. conglutinans
+1316,UP000789375,27381,FUNMO,eukaryota,16849,0,16857,Funneliformis mosseae (Endomycorrhizal fungus) (Glomus mosseae)
+1340,UP000219602,327505,None,eukaryota,16567,373,17168,Fusarium oxysporum f. sp. radicis-cucumerinum
+1350,UP000604273,282569,None,eukaryota,13451,0,13458,Fusarium gaditjirri
+1356,UP001147746,1132637,None,eukaryota,11550,0,11595,Penicillium atrosanguineum
+1358,UP001219568,5083,PENCN,eukaryota,13937,0,14109,Penicillium canescens
+1361,UP000326950,41984,ASPTM,eukaryota,13330,0,13331,Aspergillus tamarii
+1362,UP001150904,70096,None,eukaryota,11010,0,11028,Penicillium cinerascens
+1365,UP000265631,2675880,None,eukaryota,13039,0,13046,Fusarium flagelliforme
+1368,UP000013776,1097556,TAPDE,eukaryota,4650,9,4662,Taphrina deformans (strain PYCC 5710 / ATCC 11124 / CBS 356.35 / IMI 108563 / JCM 9778 / NBRC 8474) (Peach leaf curl fungus) (Lalaria deformans)
+1374,UP000605986,2364996,None,eukaryota,14500,0,14502,Fusarium austroafricanum
+1380,UP000053392,1296110,None,eukaryota,6462,0,6463,Cryptococcus deuterogattii Ram5
+1397,UP000613401,474922,COLGL,eukaryota,15372,0,15373,Colletotrichum gloeosporioides (Anthracnose fungus) (Glomerella cingulata)
+1401,UP000024533,1215338,TRIIM,eukaryota,7993,224,8217,Trichophyton interdigitale (strain MR816)
+1403,UP000322873,38448,MONFR,eukaryota,12118,1631,13749,Monilinia fructicola (Brown rot fungus) (Ciboria fructicola)
+1404,UP000008063,936435,SERL3,eukaryota,14339,0,14481,Serpula lacrymans var. lacrymans (strain S7.3) (Dry rot fungus)
+1427,UP000191408,60169,PENPO,eukaryota,10627,0,10681,Penicillium polonicum
+1439,UP000016935,671987,EXST2,eukaryota,11687,0,11698,Exserohilum turcicum (strain 28A) (Northern leaf blight fungus) (Setosphaeria turcica)
+1445,UP000009297,2059318,AJECN,eukaryota,9252,0,9313,Ajellomyces capsulatus (strain NAm1 / WU24) (Darling's disease fungus) (Histoplasma capsulatum)
+1457,UP000076837,5454,DIDRA,eukaryota,10558,0,10596,Didymella rabiei (Chickpea ascochyta blight fungus) (Mycosphaerella rabiei)
+1458,UP000613580,658473,MYCCL,eukaryota,13463,0,13505,Mycena chlorophos (Agaric fungus) (Agaricus chlorophos)
+1461,UP000241587,5516,FUSCU,eukaryota,12360,0,17223,Fusarium culmorum
+1497,UP000008866,663331,ARTBC,eukaryota,7976,0,7978,Arthroderma benhamiae (strain ATCC MYA-4681 / CBS 112371) (Trichophyton mentagrophytes)
+1507,UP000007796,655863,GROCL,eukaryota,8311,0,8312,Grosmannia clavigera (strain kw1407 / UAMH 11150) (Blue stain fungus) (Graphiocladiella clavigera)
+1520,UP000002428,284593,CANGA,eukaryota,5187,3,5208,Candida glabrata (strain ATCC 2001 / BCRC 20586 / JCM 3761 / NBRC 0622 / NRRL Y-65 / CBS 138) (Yeast) (Nakaseomyces glabratus)
+1532,UP000001798,332648,BOTFB,eukaryota,11741,1297,13039,Botryotinia fuckeliana (strain B05.10) (Noble rot fungus) (Botrytis cinerea)
+1556,UP000006514,717982,AURST,eukaryota,5290,0,5306,Auricularia subglabra (strain TFB-10046 / SS5) (White-rot fungus) (Auricularia delicata (strain TFB10046))
+1576,UP000094801,983967,None,eukaryota,5824,3,5830,[Candida] arabinofermentans NRRL YB-2248
+1578,UP000231358,656916,None,eukaryota,12090,0,15421,Aspergillus arachidicola
+1582,UP000635477,1053134,None,eukaryota,10733,0,10733,Fusarium zealandicum
+1584,UP000191518,29845,None,eukaryota,10245,0,10276,Penicillium vulpinum
+1588,UP000001997,294746,PICGU,eukaryota,5919,0,5920,Meyerozyma guilliermondii (strain ATCC 6260 / CBS 566 / DSM 6381 / JCM 1539 / NBRC 10279 / NRRL Y-324) (Yeast) (Candida guilliermondii)
+1591,UP000248340,1448315,None,eukaryota,12014,0,12014,Aspergillus uvarum CBS 121591
+1598,UP000008062,336722,ZYMTI,eukaryota,10973,0,10986,Zymoseptoria tritici (strain CBS 115943 / IPO323) (Speckled leaf blotch fungus) (Septoria tritici)
+1600,UP001187734,33205,None,eukaryota,13950,0,13951,Fusarium torulosum
+1606,UP001140502,1435070,None,eukaryota,12529,0,12530,Fusarium piperis
+1616,UP000191500,36646,None,eukaryota,8993,0,8998,Penicillium coprophilum
+1625,UP000002149,214684,CRYNJ,eukaryota,6604,139,6770,Cryptococcus neoformans var. neoformans serotype D (strain JEC21 / ATCC MYA-565) (Filobasidiella neoformans)
+1629,UP000515153,148305,PYRGI,eukaryota,12448,9,12469,Pyricularia grisea (Crabgrass-specific blast fungus) (Magnaporthe grisea)
+1630,UP000019376,933388,PENO1,eukaryota,9977,0,9977,Penicillium oxalicum (strain 114-2 / CGMCC 5302) (Penicillium decumbens)
+1634,UP000720189,48865,FUSRE,eukaryota,17005,0,17050,Fusarium redolens
+1639,UP000289152,5217,TREME,eukaryota,8061,0,8074,Tremella mesenterica (Jelly fungus)
+1647,UP000002037,294747,CANTT,eukaryota,6226,0,6254,Candida tropicalis (strain ATCC MYA-3404 / T1) (Yeast)
+1650,UP000001610,983644,CORMM,eukaryota,9651,0,9651,Cordyceps militaris (strain CM01) (Caterpillar fungus)
+1657,UP001064648,2898545,None,eukaryota,15470,0,15522,Fusarium sp. LHS14.1
+1658,UP000558688,5507,FUSOX,eukaryota,15431,0,21741,Fusarium oxysporum (Fusarium vascular wilt)
+1661,UP000637239,182096,ASPCH,eukaryota,10232,0,10356,Aspergillus chevalieri (Eurotium chevalieri)
+1668,UP000030686,1365484,PENRF,eukaryota,12315,0,12319,Penicillium roqueforti (strain FM164)
+1673,UP000055045,48697,PENFR,eukaryota,11722,0,11732,Penicillium freii
+1675,UP000191612,60172,None,eukaryota,11867,0,11887,Penicillium solitum
+1682,UP000215305,41047,ASPTH,eukaryota,9702,0,9702,Aspergillus thermomutatus (Neosartorya pseudofischeri)
+1692,UP000005627,4950,TORDE,eukaryota,4966,0,4972,Torulaspora delbrueckii (Yeast) (Candida colliculosa)
+1693,UP000661280,1069201,ASPKA,eukaryota,12636,0,18007,Aspergillus kawachii (White koji mold) (Aspergillus awamori var. kawachi)
+1697,UP000001261,246410,COCIM,eukaryota,9587,125,9719,Coccidioides immitis (strain RS) (Valley fever fungus)
+1724,UP000452235,33178,ASPTE,eukaryota,10118,0,10118,Aspergillus terreus
+1736,UP000326799,986946,None,eukaryota,14181,0,14182,Aspergillus novoparasiticus
+1740,UP000326757,61186,MONLA,eukaryota,11157,1259,12422,Monilinia laxa (Brown rot fungus) (Sclerotinia laxa)
+1741,UP001148299,5074,PENBR,eukaryota,12015,0,13721,Penicillium brevicompactum
+1743,UP000546213,56676,None,eukaryota,14261,0,14263,Fusarium pseudocircinatum
+1747,UP000005240,630390,PUCT1,eukaryota,11497,18,11638,Puccinia triticina (isolate 1-1 / race 1 (BBBD)) (Brown leaf rust fungus)
+1755,UP000019373,1263415,ENDPU,eukaryota,9228,0,9238,Endocarpon pusillum (strain Z07020 / HMAS-L-300199) (Lichen-forming fungus)
+1757,UP000002530,330879,ASPFU,eukaryota,9647,1,9653,Aspergillus fumigatus (strain ATCC MYA-4609 / CBS 101355 / FGSC A1100 / Af293) (Neosartorya fumigata)
+1764,UP000235728,176275,BEABA,eukaryota,10656,0,10699,Beauveria bassiana (White muscardine disease fungus) (Tritirachium shiotae)
+1769,UP000016928,1229664,FUSC1,eukaryota,15355,0,15438,Fusarium oxysporum f. sp. cubense (strain race 1) (Panama disease fungus)
+1770,UP000009096,334819,GIBM7,eukaryota,15890,1985,17878,Gibberella moniliformis (strain M3125 / FGSC 7600) (Maize ear and stalk rot fungus) (Fusarium verticillioides)
+1771,UP000053558,741705,CONPW,eukaryota,13735,0,13758,Coniophora puteana (strain RWD-64-598) (Brown rot fungus)
+1775,UP000002497,443226,COCPS,eukaryota,10209,3,10228,Coccidioides posadasii (strain RMSCC 757 / Silveira) (Valley fever fungus)
+1791,UP000016930,914234,CERS8,eukaryota,12077,1,12123,Ceriporiopsis subvermispora (strain B) (White-rot fungus) (Gelatoporia subvermispora)
+1800,UP000019374,911162,OPHSC,eukaryota,6968,0,6972,Ophiocordyceps sinensis (strain Co18 / CGMCC 3.14243) (Yarsagumba caterpillar fungus) (Hirsutella sinensis)
+1803,UP001194746,2582783,ASPNN,eukaryota,12935,0,12935,Aspergillus nanangensis
+1807,UP000000559,237561,CANAL,eukaryota,6035,2,6057,Candida albicans (strain SC5314 / ATCC MYA-2876) (Yeast)
+1823,UP001215712,1324776,None,eukaryota,12029,0,12110,Penicillium malachiteum
+1844,UP000190831,4955,LACFM,eukaryota,5229,0,5233,Lachancea fermentati (Zygosaccharomyces fermentati)
+1848,UP000756132,5499,PASFU,eukaryota,14687,0,14690,Passalora fulva (Tomato leaf mold) (Cladosporium fulvum)
+1858,UP000547976,42677,GIBSU,eukaryota,14039,0,14062,Gibberella subglutinans (Fusarium subglutinans)
+1866,UP000011096,1213859,COLFN,eukaryota,17182,0,17383,Colletotrichum fructicola (strain Nara gc5) (Anthracnose fungus) (Colletotrichum gloeosporioides (strain Nara gc5))
+1870,UP000070168,5078,PENPA,eukaryota,9628,0,9631,Penicillium patulum (Penicillium griseofulvum)
+1888,UP001175261,5046,SARSR,eukaryota,9923,46,10017,Sarocladium strictum (Black bundle disease fungus) (Acremonium strictum)
+1892,UP000307440,230819,COPMA,eukaryota,14526,0,14545,Coprinopsis marcescibilis (Agaric fungus) (Psathyrella marcescibilis)
+1898,UP000001996,379508,LODEL,eukaryota,5779,0,5796,Lodderomyces elongisporus (strain ATCC 11503 / CBS 2605 / JCM 1781 / NBRC 1676 / NRRL YB-4239) (Yeast) (Saccharomyces elongisporus)
+1910,UP001147782,2100454,None,eukaryota,12811,0,12846,Penicillium cataractarum
+1927,UP000256690,1810919,None,eukaryota,11569,0,11603,Aspergillus mulundensis
+1928,UP000567885,42747,FUSHE,eukaryota,11330,0,11332,Fusarium heterosporum
+1931,UP001152649,1612424,None,eukaryota,10048,1393,12911,Penicillium salamii
+1939,UP000509704,42260,ZYGMR,eukaryota,5020,0,5041,Zygotorulaspora mrakii (Zygosaccharomyces mrakii)
+1940,UP000007431,578458,SCHCM,eukaryota,13124,4,13194,Schizophyllum commune (strain H4-8 / FGSC 9210) (Split gill fungus)
+1943,UP000014074,1286976,PHAM7,eukaryota,8833,0,8834,Phaeoacremonium minimum (strain UCR-PA7) (Esca disease fungus) (Togninia minima)
+1954,UP001149079,126998,None,eukaryota,10371,0,10402,Penicillium bovifimosum
+1963,UP000002762,655819,BEAB2,eukaryota,10363,0,10363,Beauveria bassiana (strain ARSEF 2860) (White muscardine disease fungus) (Tritirachium shiotae)
+1966,UP001149163,189055,None,eukaryota,10808,0,10816,Penicillium canariense
+1982,UP000001745,441959,TALSN,eukaryota,12468,553,13037,Talaromyces stipitatus (strain ATCC 10500 / CBS 375.48 / QM 6759 / NRRL 1006) (Penicillium stipitatum)
+1998,UP000053758,84753,PSEA2,eukaryota,4672,0,7802,Pseudozyma antarctica (Yeast) (Candida antarctica)
+1999,UP001154252,1303716,None,eukaryota,10627,0,10635,Penicillium egyptiacum
+2004,UP000326565,41062,None,eukaryota,12743,0,12743,Aspergillus leporis
+2005,UP000042958,104259,PENBI,eukaryota,11426,507,12734,Penicillium brasilianum
+2009,UP000006706,425011,ASPNC,eukaryota,14069,0,14078,Aspergillus niger (strain ATCC MYA-4892 / CBS 513.88 / FGSC A1513)
+2016,UP001202479,497107,None,eukaryota,4871,0,4872,Candida oxycetoniae
+2023,UP000011715,644358,MAGP6,eukaryota,11206,97,11306,Magnaporthiopsis poae (strain ATCC 64411 / 73-15) (Kentucky bluegrass fungus) (Magnaporthe poae)
+2025,UP000217790,47427,ARMGA,eukaryota,25522,0,25695,Armillaria gallica (Bulbous honey fungus) (Armillaria bulbosa)
+2037,UP000248349,1450539,None,eukaryota,10061,0,10064,Aspergillus saccharolyticus JOP 1030-1
+2041,UP000249402,1448316,None,eukaryota,11680,0,11680,Aspergillus ibericus CBS 121593
+2066,UP000077248,5599,ALTAL,eukaryota,13463,0,16969,Alternaria alternata (Alternaria rot fungus) (Torula alternata)
+2069,UP000596902,1187904,None,eukaryota,11309,0,11314,Alternaria burnsii
+2078,UP000624244,45130,COCSA,eukaryota,10748,0,10755,Cochliobolus sativus (Common root rot and spot blotch fungus) (Bipolaris sorokiniana)
+2129,UP000018087,1391915,SPOS1,eukaryota,8673,0,8674,Sporothrix schenckii (strain ATCC 58251 / de Perez 2211183) (Rose-picker's disease fungus)
+2166,UP000000689,1071378,NAUDC,eukaryota,5523,0,5548,Naumovozyma dairenensis (strain ATCC 10597 / BCRC 20456 / CBS 421 / NBRC 0211 / NRRL Y-12639) (Saccharomyces dairenensis)
+2167,UP000730481,44412,None,eukaryota,14518,0,14521,Fusarium beomiforme
+2174,UP000016934,665912,COCSN,eukaryota,12174,0,12214,Cochliobolus sativus (strain ND90Pr / ATCC 201652) (Common root rot and spot blotch fungus) (Bipolaris sorokiniana)
+2179,UP000248423,1448318,ASPSB,eukaryota,12562,0,12569,Aspergillus sclerotiicarbonarius (strain CBS 121057 / IBT 28362)
+2201,UP000596276,332952,ASPFN,eukaryota,13708,0,13709,Aspergillus flavus (strain ATCC 200026 / FGSC A1120 / IAM 13836 / NRRL 3357 / JCM 12722 / SRRC 167)
+2207,UP000694255,561895,None,eukaryota,6132,0,6134,[Candida] subhashii
+2208,UP000193240,105696,EPING,eukaryota,12021,0,12025,Epicoccum nigrum (Soil fungus) (Epicoccum purpurascens)
+2221,UP000008837,425265,MALGO,eukaryota,4270,1,4283,Malassezia globosa (strain ATCC MYA-4612 / CBS 7966) (Dandruff-associated fungus)
+2229,UP000054988,221103,MONRR,eukaryota,19789,0,20100,Moniliophthora roreri (Frosty pod rot fungus) (Monilia roreri)
+2242,UP000037696,229535,None,eukaryota,12938,0,12944,Penicillium nordicum
+2244,UP001152087,195108,None,eukaryota,14678,245,14924,Fusarium falciforme
+2245,UP000288168,1325734,None,eukaryota,16262,0,16263,Fusarium duplospermum
+2247,UP000030653,1858805,DACPD,eukaryota,10233,0,10240,Dacryopinax primogenitus (strain DJM 731) (Brown rot fungus)
+2254,UP000053927,721885,STEHR,eukaryota,1613,0,1616,Stereum hirsutum (strain FP-91666) (White-rot fungus)
+2257,UP001146351,69766,None,eukaryota,10686,0,10739,Penicillium capsulatum
+2276,UP000569620,1101274,None,eukaryota,13547,0,13556,Fusarium sp. NRRL 52700
+2279,UP000184499,767769,ASPBC,eukaryota,12981,1,12990,Aspergillus brasiliensis (strain CBS 101740 / IMI 381727 / IBT 21946)
+2296,UP000184304,767770,ASPTC,eukaryota,12318,1,12319,Aspergillus tubingensis (strain CBS 134.48)
+2297,UP000015100,1284197,DACHA,eukaryota,10959,0,10959,Dactylellina haptotyla (strain CBS 200.50) (Nematode-trapping fungus) (Monacrosporium haptotylum)
+2320,UP000013521,1287680,BOTPV,eukaryota,10365,0,10366,Botryosphaeria parva (strain UCR-NP2) (Grapevine canker fungus) (Neofusicoccum parvum)
+2354,UP000015530,1237896,COLGC,eukaryota,16388,0,16389,Colletotrichum gloeosporioides (strain Cg-14) (Anthracnose fungus) (Glomerella cingulata)
+2373,UP000626568,2692428,None,eukaryota,16532,0,16533,Fusarium sp. NRRL 66182
+2376,UP000053319,732165,DICSQ,eukaryota,7183,0,7192,Dichomitus squalens (strain LYAD-421) (Western red white-rot fungus)
+2379,UP000737391,1803897,None,eukaryota,13309,0,13310,Fusarium agapanthi
+2380,UP000015241,2126942,FOMSC,eukaryota,13805,1,13852,Fomitopsis schrenkii (Brown rot fungus)
+2384,UP001153618,99116,PENOL,eukaryota,9525,0,9526,Penicillium olsonii
+2393,UP000676310,119953,None,eukaryota,11884,54,12227,Alternaria atra
+2394,UP000218381,290292,None,eukaryota,11231,0,11231,Penicillium occitanis (nom. inval.)
+2399,UP000218811,742152,WOLCO,eukaryota,12196,0,12212,Wolfiporia cocos (strain MD-104) (Brown rot fungus)
+2406,UP000037136,268505,OPHUN,eukaryota,8572,0,8577,Ophiocordyceps unilateralis (Zombie-ant fungus) (Torrubia unilateralis)
+2407,UP000030753,660029,None,eukaryota,17279,3488,20768,Fusarium oxysporum NRRL 32931
+2417,UP000027002,1159556,USTVR,eukaryota,8297,0,10431,Ustilaginoidea virens (Rice false smut fungus) (Villosiclava virens)
+2423,UP000002489,660025,FUSOF,eukaryota,16626,0,17681,Fusarium oxysporum (strain Fo5176) (Fusarium vascular wilt)
+2432,UP000192386,1974281,None,eukaryota,18035,0,18892,Rachicladosporium sp. CCFEE 5018
+2438,UP000018888,747089,RHIID,eukaryota,26006,5,29630,Rhizophagus irregularis (strain DAOM 181602 / DAOM 197198 / MUCL 43194) (Arbuscular mycorrhizal fungus) (Glomus intraradices)
+2441,UP000236664,42673,GIBNY,eukaryota,16018,0,16019,Gibberella nygamai (Bean root rot disease fungus) (Fusarium nygamai)
+2464,UP000654370,91625,MORIS,eukaryota,9021,0,9033,Mortierella isabellina (Filamentous fungus) (Umbelopsis isabellina)
+2465,UP000016801,1111077,CLAP2,eukaryota,8814,0,8817,Claviceps purpurea (strain 20.1) (Ergot fungus) (Sphacelia segetum)
+2483,UP000000598,284590,KLULA,eukaryota,5048,0,5079,Kluyveromyces lactis (strain ATCC 8585 / CBS 2359 / DSM 70799 / NBRC 1267 / NRRL Y-1140 / WM37) (Yeast) (Candida sphaerica)
+2486,UP000794436,41045,PYTOL,eukaryota,14742,0,14954,Pythium oligandrum (Mycoparasitic fungus)
+2492,UP000001067,861557,PYRTT,eukaryota,11705,0,11799,Pyrenophora teres f. teres (strain 0-1) (Barley net blotch fungus) (Drechslera teres f. teres)
+2498,UP000054771,454130,ASPCI,eukaryota,15115,244,15384,Aspergillus calidoustus
+2501,UP001165120,5477,CANBO,eukaryota,6988,0,6991,Candida boidinii (Yeast)
+2510,UP001152049,1237075,None,eukaryota,14532,0,14533,Fusarium torreyae
+2524,UP000449547,5481,DIURU,eukaryota,5811,0,5815,Diutina rugosa (Yeast) (Candida rugosa)
+2536,UP000009097,426428,FUSO4,eukaryota,19727,3374,24305,Fusarium oxysporum f. sp. lycopersici (strain 4287 / CBS 123668 / FGSC 9935 / NRRL 34936) (Fusarium vascular wilt of tomato)
+2549,UP000230249,498019,CANAR,eukaryota,5418,0,5502,Candidozyma auris (Yeast) (Candida auris)
+2550,UP000006968,1160507,SACAR,eukaryota,3653,0,3659,Saccharomyces arboricola (strain H-6 / AS 2.3317 / CBS 10644) (Yeast)
+2552,UP000249829,1450538,ASPV1,eukaryota,12074,0,12080,Aspergillus violaceofuscus (strain CBS 115571)
+2558,UP000242180,13706,SYNRA,eukaryota,11037,0,11121,Syncephalastrum racemosum (Filamentous fungus)
+2562,UP000184546,690307,ASPA1,eukaryota,10843,0,10847,Aspergillus aculeatus (strain ATCC 16872 / CBS 172.66 / WB 5094)
+2566,UP000574317,42672,None,eukaryota,13892,0,13896,Fusarium napiforme
+2567,UP000006701,344612,ASPCL,eukaryota,9140,0,9140,Aspergillus clavatus (strain ATCC 1007 / CBS 513.65 / DSM 816 / NCTC 3887 / NRRL 1 / QM 1276 / 107)
+2568,UP000219338,47428,ARMOS,eukaryota,22192,0,22297,Armillaria ostoyae (Armillaria root rot fungus)
+2578,UP000030663,1089458,None,eukaryota,19288,3466,22772,Fusarium oxysporum f. sp. raphani 54005
+2584,UP000008142,544711,AJEC8,eukaryota,9445,0,13044,Ajellomyces capsulatus (strain H88) (Darling's disease fungus) (Histoplasma capsulatum)
+2585,UP001199106,48097,None,eukaryota,11684,0,11837,Alternaria panax
+2594,UP000641853,1287682,None,eukaryota,10242,0,14979,Aspergillus felis
+2598,UP000011777,1245528,CANMX,eukaryota,5976,0,5984,Candida maltosa (strain Xu316) (Yeast)
+2599,UP001213681,63821,None,eukaryota,12804,0,12848,Penicillium daleae
+2600,UP000287544,1325737,None,eukaryota,15273,0,15274,Fusarium sp. AF-6
+2603,UP000016800,1279085,GIBF5,eukaryota,14792,0,14810,Gibberella fujikuroi (strain CBS 195.34 / IMI 58289 / NRRL A-6831) (Bakanae and foot rot disease fungus) (Fusarium fujikuroi)
+2614,UP000070700,149040,MOLSC,eukaryota,18561,0,18567,Mollisia scopiformis (Conifer needle endophyte fungus) (Phialocephala scopiformis)
+2615,UP000544331,1567541,None,eukaryota,15662,0,15666,Fusarium mundagurra
+2618,UP000001744,402676,SCHJY,eukaryota,4852,0,4878,Schizosaccharomyces japonicus (strain yFS275 / FY16936) (Fission yeast)
+2621,UP000094065,1295533,None,eukaryota,8246,1631,9880,Cryptococcus amylolentus CBS 6039
+2626,UP000054317,717944,TRAVS,eukaryota,1022,0,1030,Trametes versicolor (strain FP-101664) (White-rot fungus) (Coriolus versicolor)
+2630,UP000473826,5417,VANHU,eukaryota,4373,0,4375,Vanrija humicola (Yeast) (Cryptococcus humicola)
+2633,UP000027238,1173701,COLSU,eukaryota,12697,0,12699,Colletotrichum sublineola (Sorghum anthracnose fungus)
+2654,UP000053732,1429867,PENC3,eukaryota,14391,0,14418,Penicillium camemberti (strain FM 013)
+2658,UP000006753,1072389,MARBU,eukaryota,10037,0,10038,Marssonina brunnea f. sp. multigermtubi (strain MB_m1) (Marssonina leaf spot fungus)
+2662,UP000094389,983966,CYBJN,eukaryota,5994,0,7420,Cyberlindnera jadinii (strain ATCC 18201 / CBS 1600 / BCRC 20928 / JCM 3617 / NBRC 0987 / NRRL Y-1542) (Torula yeast) (Candida utilis)
+2664,UP000541154,209559,PETAA,eukaryota,12705,0,14912,Petromyces alliaceus (Aspergillus alliaceus)
+2673,UP001147733,5077,PENCI,eukaryota,11663,0,11679,Penicillium citrinum
+2675,UP000001640,27288,NAUCA,eukaryota,5565,0,5601,Naumovozyma castellii (Yeast) (Saccharomyces castellii)
+2681,UP000007963,341663,ASPTN,eukaryota,10417,0,10419,Aspergillus terreus (strain NIH 2624 / FGSC A1156)
+2686,UP000184300,1160497,None,eukaryota,11244,1,11255,Aspergillus glaucus CBS 516.65
+2690,UP000054516,77044,ROSNE,eukaryota,12440,0,12444,Rosellinia necatrix (White root-rot fungus)
+2693,UP000002668,985895,LEPMJ,eukaryota,12608,0,12609,Leptosphaeria maculans (strain JN3 / isolate v23.1.3 / race Av1-4-5-6-7-8) (Blackleg fungus) (Phoma lingam)
+2695,UP000037904,179993,FUSLA,eukaryota,11939,0,11940,Fusarium langsethiae
+2713,UP000253472,5486,None,eukaryota,10576,0,10841,Candida viswanathii
+2719,UP000191342,254877,None,eukaryota,10875,0,10989,Penicillium flavigenum
+2722,UP000622797,1208366,None,eukaryota,14826,0,14827,Fusarium sarcochroum
